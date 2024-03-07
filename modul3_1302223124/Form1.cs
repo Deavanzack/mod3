@@ -59,7 +59,7 @@ namespace modul3_1302223124
 
         private void button12_Click(object sender, EventArgs e)
         {
-            
+            label1.Text = label1.Text + label1.Text;
         }
 
         private void button5_Click(object sender, EventArgs e)
